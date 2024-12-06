@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ISP Self Service</string>
+    <string name="institute_of_the_south_pacific">Institute of the South Pacific</string>
+    <string name="select_program_and_year">Select Program And Year</string>
+    <string name="offered_courses">Offered Courses</string>
+    <string name="schedule">Schedule</string>
+    <string name="calendar">Calendar</string>
+    <string name="news_feed">News Feed</string>
+    <string name="public_transit">Public Transit</string>
+    <string name="contact_us">Contact Us</string>
+</resources>
