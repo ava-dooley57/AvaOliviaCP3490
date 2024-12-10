@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <!-- Semester 1 (Fall) -->
+    <semester>
+        <number>1</number>
+        <course>
+            <courseID>CM1400</courseID>
+            <courseName>Technical Report Writing I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>ET1100</courseID>
+            <courseName>Electurerotechnology I</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>MA1700</courseID>
+            <courseName>Mathematics*</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>PH1100</courseID>
+            <courseName>Physics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>EG1110</courseID>
+            <courseName>Engineering Graphics</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>CH1120</courseID>
+            <courseName>Chemistry</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>SD1170</courseID>
+            <courseName>Technology Awareness I</courseName>
+            <credit>0</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 2 (Winter) -->
+    <semester>
+        <number>2</number>
+        <course>
+            <courseID>CH1121</courseID>
+            <courseName>Chemistry</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>PH1101</courseID>
+            <courseName>Physics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>MA1101</courseID>
+            <courseName>Advanced Mathematics*</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>ET1101</courseID>
+            <courseName>Electurerotechnology</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>CM1401</courseID>
+            <courseName>Technical Report Writing II</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>EG1430</courseID>
+            <courseName>AutoCAD Essentials</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>SD1171</courseID>
+            <courseName>Technology Awareness II</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+    <!-- Semester 3 (Intersession) -->
+    <semester>
+        <number>3</number>
+        <course>
+            <courseID>CG1500</courseID>
+            <courseName>Work Methods and Measurement</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>TM1310</courseID>
+            <courseName>Technical Modeling - Mechanical Drawings</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>SP1200</courseID>
+            <courseName>Machine Shop Practice</courseName>
+            <credit>1</credit>
+            <lecture>0</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>TM1320</courseID>
+            <courseName>Technical Modeling - 3D Modeling</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>2</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 4 (Fall) -->
+    <semester>
+        <number>4</number>
+        <course>
+            <courseID>CF1100</courseID>
+            <courseName>Materials and Processes I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>CF2100</courseID>
+            <courseName>Mechanics of Solids: Statics</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>SP2450</courseID>
+            <courseName>OHS Management Systems</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>SP1730</courseID>
+            <courseName>CNC Machining I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>SP2131</courseID>
+            <courseName>Applied Metrology I</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>MA2100</courseID>
+            <courseName>Mathematics - Calculus</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>MA1670</courseID>
+            <courseName>Statistics</courseName>
+            <credit>4</credit>
+            <lecture>4</lecture>
+            <lab>1</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 5 (Winter) -->
+    <semester>
+        <number>5</number>
+        <course>
+            <courseID>ME1400</courseID>
+            <courseName>Mechatronics I - PLC</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>CM2800</courseID>
+            <courseName>Oral/Written Communication Skills</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>CF1120</courseID>
+            <courseName>Materials and Processes II</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>FM2100</courseID>
+            <courseName>Fluid Mechanics</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>FM3100</courseID>
+            <courseName>Fluid Power</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>SP2132</courseID>
+            <courseName>Applied Metrology II</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>SP1731</courseID>
+            <courseName>CNC Machining II</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 6 (Spring) -->
+    <semester>
+        <number>6</number>
+        <course>
+            <courseID>WC1900</courseID>
+            <courseName>Work Term I</courseName>
+            <credit>5</credit>
+            <lecture>0</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 7 (Fall) -->
+    <semester>
+        <number>7</number>
+        <course>
+            <courseID>TD2100</courseID>
+            <courseName>Thermodynamics</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>LW1500</courseID>
+            <courseName>Law &amp; Ethics</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>PR3620</courseID>
+            <courseName>Capstone Project I (Seminar)</courseName>
+            <credit>0</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>FM3200</courseID>
+            <courseName>Machine Design I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>ME3400</courseID>
+            <courseName>Mechatronics III - Robotics</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>CG3501</courseID>
+            <courseName>Production Planning</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>DR3720</courseID>
+            <courseName>Tool Design I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>DR3810</courseID>
+            <courseName>Advanced Processes</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>3</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 8 (Winter) -->
+    <semester>
+        <number>8</number>
+        <course>
+            <courseID>WC1901</courseID>
+            <courseName>Work Term II</courseName>
+            <credit>5</credit>
+            <lecture>0</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 9 (Spring) -->
+    <semester>
+        <number>9</number>
+        <course>
+            <courseID>CF3100</courseID>
+            <courseName>Mechanics of Solids: Dynamics</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>SP2325</courseID>
+            <courseName>Quality Assurance</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>PR3150</courseID>
+            <courseName>Project Management &amp; Financial Analysis</courseName>
+            <credit>4</credit>
+            <lecture>4</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>PR3621</courseID>
+            <courseName>Capstone Project II</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>FM3220</courseID>
+            <courseName>Machine Design II</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>SP1420</courseID>
+            <courseName>Asset Maint. &amp; Reliability</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>DR3721</courseID>
+            <courseName>Tool Design II</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>ME2400</courseID>
+            <courseName>Mechatronics II - Automation</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+        </course>
+    </semester>
+</courses>

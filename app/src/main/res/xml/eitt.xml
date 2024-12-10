@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <!-- Semester 1 (Fall) -->
+    <semester>
+        <number>1</number>
+        <course>
+            <courseID>CM1400</courseID>
+            <courseName>Technical Report Writing I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>ET1100</courseID>
+            <courseName>Electrotechnology I</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM (Lecture), 1:00 PM - 3:00 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>MA1700</courseID>
+            <courseName>Mathematics*</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 12:00 PM (Lecture), 1:00 PM - 3:00 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>PH1100</courseID>
+            <courseName>Physics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 12:00 PM (Lecture), 1:00 PM - 3:00 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>EG1110</courseID>
+            <courseName>Engineering Graphics</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Friday</day>
+            <time>9:00 AM - 11:00 AM (Lecture), 11:30 AM - 1:30 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>CH1120</courseID>
+            <courseName>Chemistry</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>1:00 PM - 4:00 PM (Lecture), 4:30 PM - 6:30 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>SD1170</courseID>
+            <courseName>Technology Awareness I</courseName>
+            <credit>0</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>3:00 PM - 4:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 2 (Winter) -->
+    <semester>
+        <number>2</number>
+        <course>
+            <courseID>CH1121</courseID>
+            <courseName>Chemistry</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM (Lecture), 1:00 PM - 3:00 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>PH1101</courseID>
+            <courseName>Physics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM (Lecture), 1:00 PM - 3:00 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>MA1101</courseID>
+            <courseName>Advanced Mathematics*</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 2:00 PM</time>
+        </course>
+        <course>
+            <courseID>ET1101</courseID>
+            <courseName>Electrotechnology</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 12:00 PM (Lecture), 1:00 PM - 3:00 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>CM1401</courseID>
+            <courseName>Technical Report Writing II</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Friday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>EG1430</courseID>
+            <courseName>AutoCAD Essentials</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Tuesday</day>
+            <time>3:00 PM - 5:00 PM (Lecture), 5:30 PM - 7:30 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>SD1171</courseID>
+            <courseName>Technology Awareness II</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+            <day>Thursday</day>
+            <time>3:00 PM - 4:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 7 -->
+    <semester>
+        <number>7</number>
+        <course>
+            <courseID>MP2210</courseID>
+            <courseName>Power Harmonics and Controls</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM (Lecture), 1:00 PM - 3:00 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>MP3250</courseID>
+            <courseName>Emergency Standby Systems and Alternate Energy Sources</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 12:00 PM (Lecture), 1:00 PM - 3:00 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>MP3215</courseID>
+            <courseName>Power Systems: Analysis</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 12:00 PM (Lecture), 1:00 PM - 4:00 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>MP3110</courseID>
+            <courseName>Motor Control Systems</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+            <day>Friday</day>
+            <time>9:00 AM - 12:00 PM (Lecture), 1:00 PM - 4:00 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>PE3101</courseID>
+            <courseName>Electurerical Facility Design I</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>1:00 PM - 4:00 PM (Lecture), 4:30 PM - 6:30 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>PR1415</courseID>
+            <courseName>Capstone Project I (Seminar)</courseName>
+            <credit>0</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+            <day>Thursday</day>
+            <time>3:00 PM - 4:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 8 (Winter) -->
+    <semester>
+        <number>8</number>
+        <course>
+            <courseID>WC1201</courseID>
+            <courseName>Work Term II</courseName>
+            <credit>5</credit>
+            <lecture>0</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 9 (Spring) -->
+    <semester>
+        <number>9</number>
+        <course>
+            <courseID>MP3225</courseID>
+            <courseName>Power Systems: Analysis &amp; Operation</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM (Lecture), 1:00 PM - 4:00 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>MP3150</courseID>
+            <courseName>Power Devices &amp; Motor Drives</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 12:00 PM (Lecture), 1:00 PM - 4:00 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>CI3600</courseID>
+            <courseName>Industrial Process Control</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+            <day>Friday</day>
+            <time>9:00 AM - 12:00 PM (Lecture), 1:00 PM - 4:00 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>PE4110</courseID>
+            <courseName>Electurerical Facility Design II</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM (Lecture), 1:00 PM - 4:00 PM (Lab)</time>
+        </course>
+        <course>
+            <courseID>PR1425</courseID>
+            <courseName>Capstone Project II</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+    </semester>
+</courses>

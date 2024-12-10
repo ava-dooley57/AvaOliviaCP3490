@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <!-- Semester 1 (Fall) -->
+    <semester>
+        <number>1</number>
+        <course>
+            <courseID>PH1100</courseID>
+            <courseName>Physics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>EG1170</courseID>
+            <courseName>Engineering, Graphics and CAD</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>4</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 5:00 PM</time>
+        </course>
+        <course>
+            <courseID>ET1170</courseID>
+            <courseName>DC Circuit Fundamentals</courseName>
+            <credit>5</credit>
+            <lecture>4</lecture>
+            <lab>2</lab>
+            <day>Tuesday</day>
+            <time>10:00 AM - 3:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA1700</courseID>
+            <courseName>Mathematics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>CM1400</courseID>
+            <courseName>Technical Report Writing</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Friday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>LW1540</courseID>
+            <courseName>Law, Ethics and Sustainability</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>2:00 PM - 5:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 2 (Winter) -->
+    <semester>
+        <number>2</number>
+        <course>
+            <courseID>PH1160</courseID>
+            <courseName>Physics of Energy Conversion</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>1</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>DR2320</courseID>
+            <courseName>Eng. Graphics for Electurerical</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>ET1280</courseID>
+            <courseName>AC Circuit Fundamentals</courseName>
+            <credit>5</credit>
+            <lecture>4</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA1101</courseID>
+            <courseName>Advanced Mathematics</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+            <day>Thursday</day>
+            <time>1:00 PM - 5:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA1530</courseID>
+            <courseName>Statistics</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>1</lab>
+            <day>Friday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>CM1401</courseID>
+            <courseName>Technical Report Writing II</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>CI1210</courseID>
+            <courseName>Controls and Automation</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 5:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 3 (Intersession) -->
+    <semester>
+        <number>3</number>
+        <course>
+            <courseID>MP2910</courseID>
+            <courseName>DC Machines</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>AE1240</courseID>
+            <courseName>Electureronic Devices</courseName>
+            <credit>5</credit>
+            <lecture>4</lecture>
+            <lab>2</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 2:00 PM</time>
+        </course>
+        <course>
+            <courseID>PE2105</courseID>
+            <courseName>Electurerical Practices I</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>3</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 4 (Fall) -->
+    <semester>
+        <number>4</number>
+        <course>
+            <courseID>MA2100</courseID>
+            <courseName>Mathematics - Calculus</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 2:00 PM</time>
+        </course>
+        <course>
+            <courseID>MP2300</courseID>
+            <courseName>AC Circuits</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>AE2260</courseID>
+            <courseName>Electureronic Power Devices and Circuits</courseName>
+            <credit>5</credit>
+            <lecture>4</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>DP1310</courseID>
+            <courseName>Introduction to PLCs</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 5:00 PM</time>
+        </course>
+        <course>
+            <courseID>PE2500</courseID>
+            <courseName>Electurerical Practices II</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>3</lab>
+            <day>Friday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 5 (Winter) -->
+    <semester>
+        <number>5</number>
+        <course>
+            <courseID>CM2800</courseID>
+            <courseName>Oral/Written Communication Skills</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>PR3150</courseID>
+            <courseName>Project Management and Financial Analysis</courseName>
+            <credit>4</credit>
+            <lecture>4</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 5:00 PM</time>
+        </course>
+        <course>
+            <courseID>MP2350</courseID>
+            <courseName>Transformers</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>MP2920</courseID>
+            <courseName>AC Machines</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>DP2540</courseID>
+            <courseName>Advanced PLCs</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+            <day>Friday</day>
+            <time>9:00 AM - 1:00 PM</time>
+        </course>
+    </semester>
+
+</courses>

@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "First App"
+rootProject.name = "ISP Self Service"
 include(":app")

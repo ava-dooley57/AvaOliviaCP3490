@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <!-- Semester 1 (Fall) -->
+    <semester>
+        <number>1</number>
+        <course>
+            <courseID>PH1100</courseID>
+            <courseName>Physics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>EG1170</courseID>
+            <courseName>Engineering, Graphics &amp; CAD</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>4</lab>
+        </course>
+        <course>
+            <courseID>ET1170</courseID>
+            <courseName>DC Circuit Fundamentals</courseName>
+            <credit>5</credit>
+            <lecture>4</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>MA1700</courseID>
+            <courseName>Mathematics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>CM1400</courseID>
+            <courseName>Technical Report Writing</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>LW1540</courseID>
+            <courseName>Law, Ethics &amp; Sustainability</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 2 (Winter) -->
+    <semester>
+        <number>2</number>
+        <course>
+            <courseID>PH1160</courseID>
+            <courseName>Physics of Energy Conversion</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>DR2320</courseID>
+            <courseName>Eng. Graphics for Electurerical</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>ET1280</courseID>
+            <courseName>AC Circuit Fundamentals</courseName>
+            <credit>5</credit>
+            <lecture>4</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>MA1101</courseID>
+            <courseName>Advanced Mathematics</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>MA1530</courseID>
+            <courseName>Statistics</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>CM1401</courseID>
+            <courseName>Technical Report Writing II</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>CI1210</courseID>
+            <courseName>Controls &amp; Automation</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 3 (Intersession) -->
+    <semester>
+        <number>3</number>
+        <course>
+            <courseID>MP2910</courseID>
+            <courseName>DC Machines</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>AE1240</courseID>
+            <courseName>Electureronic Devices</courseName>
+            <credit>5</credit>
+            <lecture>4</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>PE2105</courseID>
+            <courseName>Electurerical Practices I</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>3</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 4 (Fall) -->
+    <semester>
+        <number>4</number>
+        <course>
+            <courseID>MA2100</courseID>
+            <courseName>Mathematics - Calculus</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>MP2300</courseID>
+            <courseName>AC Circuits</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>AE2260</courseID>
+            <courseName>Electureronic Power Devices &amp; Circuits</courseName>
+            <credit>5</credit>
+            <lecture>4</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>DP1310</courseID>
+            <courseName>Introduction to PLCs</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>PE2500</courseID>
+            <courseName>Electurerical Practices II</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>3</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 5 (Winter) -->
+    <semester>
+        <number>5</number>
+        <course>
+            <courseID>CM2800</courseID>
+            <courseName>Oral/Written Communication Skills</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>PR3150</courseID>
+            <courseName>Project Management &amp; Financial Analysis</courseName>
+            <credit>4</credit>
+            <lecture>4</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>MP2350</courseID>
+            <courseName>Transformers</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>MP2920</courseID>
+            <courseName>AC Machines</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>DP2540</courseID>
+            <courseName>Advanced PLCs</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>PE2501</courseID>
+            <courseName>Electurerical Practices III</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>3</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 6 (Spring) -->
+    <semester>
+        <number>6</number>
+        <course>
+            <courseID>WC1200</courseID>
+            <courseName>Work Term I</courseName>
+            <credit>5</credit>
+            <lecture>0</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+    <!-- Semester 7 (Fall) -->
+    <semester>
+        <number>7</number>
+        <course>
+            <courseID>MP2210</courseID>
+            <courseName>Power Harmonics and Controls</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>MP3250</courseID>
+            <courseName>Emergency Standby Systems and Alternate Energy Sources</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>MP3215</courseID>
+            <courseName>Power Systems: Analysis</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>MP3110</courseID>
+            <courseName>Motor Control Systems</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>PE3101</courseID>
+            <courseName>Electurerical Facility Design I</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>PR1415</courseID>
+            <courseName>Capstone Project I (Seminar)</courseName>
+            <credit>0</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 8 (Winter) -->
+    <semester>
+        <number>8</number>
+        <course>
+            <courseID>WC1201</courseID>
+            <courseName>Work Term II</courseName>
+            <credit>5</credit>
+            <lecture>0</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 9 (Spring) -->
+    <semester>
+        <number>9</number>
+        <course>
+            <courseID>MP3225</courseID>
+            <courseName>Power Systems: Analysis &amp; Operation</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>MP3150</courseID>
+            <courseName>Power Devices &amp; Motor Drives</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>CI3600</courseID>
+            <courseName>Industrial Process Control</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>PE4110</courseID>
+            <courseName>Electurerical Facility Design II</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>PR1425</courseID>
+            <courseName>Capstone Project II</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+</courses>

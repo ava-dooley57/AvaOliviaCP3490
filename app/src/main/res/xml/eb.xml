@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <!-- Semester 1 (Fall) -->
+    <semester>
+        <number>1</number>
+        <course>
+            <courseID>CM1400</courseID>
+            <courseName>Technical Report Writing I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>ET1100</courseID>
+            <courseName>Electrotechnology I</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>MA1700</courseID>
+            <courseName>Mathematics*</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>PH1100</courseID>
+            <courseName>Physics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>EG1110</courseID>
+            <courseName>Engineering Graphics</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>CH1120</courseID>
+            <courseName>Chemistry</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>SD1170</courseID>
+            <courseName>Technology Awareness I</courseName>
+            <credit>0</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 2 (Winter) -->
+    <semester>
+        <number>2</number>
+        <course>
+            <courseID>CH1121</courseID>
+            <courseName>Chemistry</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>PH1101</courseID>
+            <courseName>Physics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>MA1101</courseID>
+            <courseName>Advanced Mathematics*</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>ET1101</courseID>
+            <courseName>Electrotechnology</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>CM1401</courseID>
+            <courseName>Technical Report Writing II</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>EG1430</courseID>
+            <courseName>AutoCAD Essentials</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>SD1171</courseID>
+            <courseName>Technology Awareness II</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+    <!-- Semester 3 (Intersession) -->
+    <semester>
+        <number>3</number>
+        <course>
+            <courseID>CI1110</courseID>
+            <courseName>Signals &amp; Measurements</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>CI1313</courseID>
+            <courseName>Fabrication Techniques/Network Cabling</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>CT2300</courseID>
+            <courseName>Applied Programming</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 4 (Fall) -->
+    <semester>
+        <number>4</number>
+        <course>
+            <courseID>AE2330</courseID>
+            <courseName>Analog Electureronics I</courseName>
+            <credit>6</credit>
+            <lecture>5</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>CG1205</courseID>
+            <courseName>Health Care and Safety</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>DP1110</courseID>
+            <courseName>Digital Systems I (Logic)</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>MA2100</courseID>
+            <courseName>Mathematics - Calculus</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>MP2140</courseID>
+            <courseName>Circuit Analysis I</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>CM2800</courseID>
+            <courseName>Oral/Written Communication Skills</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 5 (Winter) -->
+    <semester>
+        <number>5</number>
+        <course>
+            <courseID>AE2331</courseID>
+            <courseName>Analog Electureronics II</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>CR1107</courseID>
+            <courseName>Network Fundamentals</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>CE2280</courseID>
+            <courseName>Modulation and Encoding</courseName>
+            <credit>5</credit>
+            <lecture>4</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>DP2120</courseID>
+            <courseName>Digital Systems II (Interfacing)</courseName>
+            <credit>5</credit>
+            <lecture>4</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>ET2150</courseID>
+            <courseName>Advanced Circuit Analysis</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 6 (Intersession) -->
+    <semester>
+        <number>6</number>
+        <course>
+            <courseID>BL1300</courseID>
+            <courseName>Anatomy &amp; Physiology</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>CI1221</courseID>
+            <courseName>BET Electureromechanical Systems</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>MA1530</courseID>
+            <courseName>Statistics</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>1</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 7 (Fall) -->
+    <semester>
+        <number>7</number>
+        <course>
+            <courseID>AE3130</courseID>
+            <courseName>Active Circuit Applications</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>CI3400</courseID>
+            <courseName>Biomedical Instrumentation I</courseName>
+            <credit>5</credit>
+            <lecture>4</lecture>
+            <lab>4</lab>
+        </course>
+        <course>
+            <courseID>CR2402</courseID>
+            <courseName>Switching, Routing &amp; Wireless</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>DP3200</courseID>
+            <courseName>Embedded Controller Applications</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>PR2830</courseID>
+            <courseName>Capstone Project I (Seminar)</courseName>
+            <credit>0</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>PR3150</courseID>
+            <courseName>Project Management and Financial Analysis</courseName>
+            <credit>4</credit>
+            <lecture>4</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 8 (Winter) -->
+    <semester>
+        <number>8</number>
+        <course>
+            <courseID>TM1111</courseID>
+            <courseName>Medical Terminology</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>CR2903</courseID>
+            <courseName>Enterprise Network Security &amp; Automation</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>CP2000</courseID>
+            <courseName>Embedded Linux</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>CI3412</courseID>
+            <courseName>Biomedical Instrumentation II</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>4</lab>
+        </course>
+        <course>
+            <courseID>CI3510</courseID>
+            <courseName>Advanced Medical Systems</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>4</lab>
+        </course>
+        <course>
+            <courseID>PR2831</courseID>
+            <courseName>Capstone Project II</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+
+    <!-- Semester 9 (Intersession) -->
+    <semester>
+        <number>9</number>
+        <course>
+            <courseID>WT1700</courseID>
+            <courseName>Biomedical Practicum (7 weeks)</courseName>
+            <credit>0</credit>
+            <lecture>0</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+</courses>

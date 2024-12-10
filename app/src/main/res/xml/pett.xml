@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <!-- Semester 1 (Fall) -->
+    <semester>
+        <number>1</number>
+        <course>
+            <courseID>CH1120</courseID>
+            <courseName>Chemistry</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>PH1150</courseID>
+            <courseName>Applied Physics</courseName>
+            <credit>5</credit>
+            <lecture>4</lecture>
+            <lab>2</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 5:00 PM</time>
+        </course>
+        <course>
+            <courseID>EG1110</courseID>
+            <courseName>Engineering Graphics</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>MC1850</courseID>
+            <courseName>Spreadsheet Applications</courseName>
+            <credit>1</credit>
+            <lecture>0</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>1:00 PM - 3:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA1700</courseID>
+            <courseName>Mathematics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>CM1400</courseID>
+            <courseName>Technical Report Writing I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>LW1540</courseID>
+            <courseName>Law, Ethics and Sustainability</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 2 (Winter) -->
+    <semester>
+        <number>2</number>
+        <course>
+            <courseID>CH1121</courseID>
+            <courseName>Chemistry</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>EG1430</courseID>
+            <courseName>AutoCAD Essentials</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA1101</courseID>
+            <courseName>Advanced Mathematics</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>1:00 PM - 6:00 PM</time>
+        </course>
+        <course>
+            <courseID>CM1401</courseID>
+            <courseName>Technical Report Writing II</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>FM2102</courseID>
+            <courseName>Fluid Mechanics</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Friday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>GE1520</courseID>
+            <courseName>Physical Geology</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>CI2250</courseID>
+            <courseName>Hydraulics</courseName>
+            <credit>1</credit>
+            <lecture>1</lecture>
+            <lab>1</lab>
+            <day>Thursday</day>
+            <time>1:00 PM - 3:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 3 (Intersession) -->
+    <semester>
+        <number>3</number>
+        <course>
+            <courseID>CF3201</courseID>
+            <courseName>Materials and Corrosion</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>GE1502</courseID>
+            <courseName>Petroleum Geology I</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>SP2455</courseID>
+            <courseName>Petroleum OHS Management</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Friday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>SE2150</courseID>
+            <courseName>Safety Certifications</courseName>
+            <credit>0</credit>
+            <lecture>0</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 4 (Fall) -->
+    <semester>
+        <number>4</number>
+        <course>
+            <courseID>CH2330</courseID>
+            <courseName>Petroleum Organic Chemistry</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA2100</courseID>
+            <courseName>Mathematics - Calculus</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 6:00 PM</time>
+        </course>
+        <course>
+            <courseID>CM2800</courseID>
+            <courseName>Oral/Written Communication Skills</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>TD2100</courseID>
+            <courseName>Thermodynamics</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>GE2510</courseID>
+            <courseName>Petroleum Geology II</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Friday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>CF2545</courseID>
+            <courseName>Mechanics of Solids</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>CI1125</courseID>
+            <courseName>Process Instrumentation and Control Systems</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>1</lab>
+            <day>Thursday</day>
+            <time>1:00 PM - 3:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 5 (Winter) -->
+    <semester>
+        <number>5</number>
+        <course>
+            <courseID>CH2335</courseID>
+            <courseName>Petroleum Chemistry</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA1670</courseID>
+            <courseName>Statistics</courseName>
+            <credit>4</credit>
+            <lecture>4</lecture>
+            <lab>1</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>TD3140</courseID>
+            <courseName>Heat Transfer</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>PM2130</courseID>
+            <courseName>Drilling</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>PM2230</courseID>
+            <courseName>Completions</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Friday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>PM2321</courseID>
+            <courseName>Reservoir Estimates</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 6 (Spring) -->
+    <semester>
+        <number>6</number>
+        <course>
+            <courseID>WT1400</courseID>
+            <courseName>Work Term</courseName>
+            <credit>5</credit>
+            <lecture>0</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 5:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 7 (Fall) -->
+    <semester>
+        <number>7</number>
+        <course>
+            <courseID>PR3150</courseID>
+            <courseName>Project Management and Financial Analysis</courseName>
+            <credit>4</credit>
+            <lecture>4</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>PM2420</courseID>
+            <courseName>Logging and Formation Evaluation</courseName>
+            <credit>5</credit>
+            <lecture>4</lecture>
+            <lab>2</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 5:00 PM</time>
+        </course>
+        <course>
+            <courseID>PM2140</courseID>
+            <courseName>Well Planning</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>PM2520</courseID>
+            <courseName>Oil Facilities</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>PM2222</courseID>
+            <courseName>Production</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Friday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>PM2330</courseID>
+            <courseName>Reservoir Analysis</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>PR2880</courseID>
+            <courseName>Capstone Project I (Seminar)</courseName>
+            <credit>0</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 10:00 AM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 8 (Winter) -->
+    <semester>
+        <number>8</number>
+        <course>
+            <courseID>PR3110</courseID>
+            <courseName>Petroleum Risk Management</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>PM2560</courseID>
+            <courseName>Gas Processing</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>PR2890</courseID>
+            <courseName>Capstone Project II (Seminar)</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+    </semester>
+</courses>

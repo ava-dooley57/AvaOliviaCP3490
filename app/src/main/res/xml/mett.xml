@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <!-- Semester 1 (Fall) -->
+    <semester>
+        <number>1</number>
+        <course>
+            <courseID>CM1400</courseID>
+            <courseName>Technical Report Writing I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>ET1100</courseID>
+            <courseName>Electrotechnology I</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Tuesday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA1700</courseID>
+            <courseName>Mathematics*</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>PH1100</courseID>
+            <courseName>Physics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>EG1110</courseID>
+            <courseName>Engineering Graphics</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Friday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>CH1120</courseID>
+            <courseName>Chemistry</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>SD1170</courseID>
+            <courseName>Technology Awareness I</courseName>
+            <credit>0</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 10:00 AM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 2 (Winter) -->
+    <semester>
+        <number>2</number>
+        <course>
+            <courseID>CH1121</courseID>
+            <courseName>Chemistry</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>PH1101</courseID>
+            <courseName>Physics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA1101</courseID>
+            <courseName>Advanced Mathematics*</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 2:00 PM</time>
+        </course>
+        <course>
+            <courseID>ET1101</courseID>
+            <courseName>Electrotechnology</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>CM1401</courseID>
+            <courseName>Technical Report Writing II</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Friday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>EG1430</courseID>
+            <courseName>AutoCAD Essentials</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>SD1171</courseID>
+            <courseName>Technology Awareness II</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>10:00 AM - 11:00 AM</time>
+        </course>
+    </semester>
+    <semester>
+        <number>3</number>
+        <course>
+            <courseID>TM1310</courseID>
+            <courseName>Technical Modeling - Mechanical Drawings</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>TM1320</courseID>
+            <courseName>Technical Modeling - 3D Modeling</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>MH1300</courseID>
+            <courseName>Building Operations I</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>1</lab>
+            <day>Friday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>SP2450</courseID>
+            <courseName>OHS Management Systems</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>SP1200</courseID>
+            <courseName>Machine Shop Practice</courseName>
+            <credit>1</credit>
+            <lecture>0</lecture>
+            <lab>3</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 4 (Fall) -->
+    <semester>
+        <number>4</number>
+        <course>
+            <courseID>CF1100</courseID>
+            <courseName>Materials and Processes I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>CF2100</courseID>
+            <courseName>Mechanics of Solids: Statics</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Tuesday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>ME1400</courseID>
+            <courseName>Mechatronics I - PLC</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA2100</courseID>
+            <courseName>Mathematics - Calculus</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+            <day>Friday</day>
+            <time>9:00 AM - 2:00 PM</time>
+        </course>
+        <course>
+            <courseID>MH2100</courseID>
+            <courseName>Building Operations II</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Thursday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>SP1730</courseID>
+            <courseName>CNC Machining I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>TD2100</courseID>
+            <courseName>Thermodynamics</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Monday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 5 (Winter) -->
+    <semester>
+        <number>5</number>
+        <course>
+            <courseID>CF1120</courseID>
+            <courseName>Materials and Processes II</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>FM2100</courseID>
+            <courseName>Fluid Mechanics</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Wednesday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>FM3100</courseID>
+            <courseName>Fluid Power</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA2130</courseID>
+            <courseName>Applied Mathematics</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 2:00 PM</time>
+        </course>
+        <course>
+            <courseID>CF2511</courseID>
+            <courseName>Strength of Materials</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Friday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>MH2830</courseID>
+            <courseName>Mechanical Building Systems I - HVAC</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Monday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>TD2140</courseID>
+            <courseName>Thermodynamics</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 6 (Intersession) -->
+    <semester>
+        <number>6</number>
+        <course>
+            <courseID>FM3200</courseID>
+            <courseName>Machine Design I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>ME2400</courseID>
+            <courseName>Mechatronics II - Automation</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>FM2340</courseID>
+            <courseName>Fluid Dynamics</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Wednesday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+    </semester>
+    <semester>
+        <number>7</number>
+        <course>
+            <courseID>SP1835</courseID>
+            <courseName>Applied Statistics and Quality Control</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>TD2240</courseID>
+            <courseName>Process Control and Instrumentation</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>SP2400</courseID>
+            <courseName>Automation Systems</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>CF2300</courseID>
+            <courseName>Advanced Materials and Processes</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Friday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+    </semester>
+</courses>

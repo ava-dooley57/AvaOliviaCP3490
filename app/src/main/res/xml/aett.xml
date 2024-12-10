@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <semester>
+        <number>1</number>
+        <course>
+            <courseID>PH1100</courseID>
+            <courseName>Physics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>EG1170</courseID>
+            <courseName>Engineering Graphics &amp; CAD</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>4</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA1700</courseID>
+            <courseName>Mathematics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>CM1400</courseID>
+            <courseName>Technical Report Writing I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Thursday</day>
+            <time>2:00 PM - 5:00 PM</time>
+        </course>
+        <course>
+            <courseID>DR1405</courseID>
+            <courseName>Architectural Technology</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Friday</day>
+            <time>8:00 AM - 11:00 AM</time>
+        </course>
+        <course>
+            <courseID>CF2615</courseID>
+            <courseName>Building Materials I</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>1</lab>
+            <day>Monday</day>
+            <time>3:00 PM - 5:00 PM</time>
+        </course>
+        <course>
+            <courseID>CG1700</courseID>
+            <courseName>Environmental Design</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 3:00 PM</time>
+        </course>
+    </semester>
+    <semester>
+        <number>2</number>
+        <course>
+            <courseID>PH1101</courseID>
+            <courseName>Physics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>EG1255</courseID>
+            <courseName>Architectural Graphics I</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>3</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA1101</courseID>
+            <courseName>Advanced Mathematics</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 5:00 PM</time>
+        </course>
+        <course>
+            <courseID>CM1401</courseID>
+            <courseName>Technical Report Writing II</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Thursday</day>
+            <time>2:00 PM - 5:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU2410</courseID>
+            <courseName>Building Science I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Friday</day>
+            <time>8:00 AM - 11:00 AM</time>
+        </course>
+        <course>
+            <courseID>CF2616</courseID>
+            <courseName>Building Materials II</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>1</lab>
+            <day>Monday</day>
+            <time>3:00 PM - 5:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU2130</courseID>
+            <courseName>Service Learning</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 3:00 PM</time>
+        </course>
+    </semester>
+    <semester>
+        <number>3</number>
+        <course>
+            <courseID>EG1315</courseID>
+            <courseName>Architectural Graphics II</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>10:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>DR2150</courseID>
+            <courseName>Architectural Drawings</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>3</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU2250</courseID>
+            <courseName>Electurerical Systems</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>3</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>CG1310</courseID>
+            <courseName>Commercial Construction</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+            <day>Thursday</day>
+            <time>2:00 PM - 4:00 PM</time>
+        </course>
+    </semester>
+    <semester>
+        <number>4</number>
+        <course>
+            <courseID>EG2255</courseID>
+            <courseName>Architectural Graphics III</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>4</lab>
+            <day>Monday</day>
+            <time>8:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA2100</courseID>
+            <courseName>Mathematics - Calculus</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 2:00 PM</time>
+        </course>
+        <course>
+            <courseID>CM2800</courseID>
+            <courseName>Oral/Written Communication Skills</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>DR3110</courseID>
+            <courseName>Working Drawings I</courseName>
+            <credit>6</credit>
+            <lecture>4</lecture>
+            <lab>6</lab>
+            <day>Thursday</day>
+            <time>2:00 PM - 5:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU2300</courseID>
+            <courseName>Building Codes I</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+            <day>Friday</day>
+            <time>10:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU2411</courseID>
+            <courseName>Building Science II</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+    </semester>
+    <semester>
+        <number>5</number>
+        <course>
+            <courseID>EG2350</courseID>
+            <courseName>Architectural Graphics IV</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>3</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA1530</courseID>
+            <courseName>Statistics</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>1</lab>
+            <day>Wednesday</day>
+            <time>10:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>DR3111</courseID>
+            <courseName>Working Drawings II</courseName>
+            <credit>6</credit>
+            <lecture>4</lecture>
+            <lab>6</lab>
+            <day>Thursday</day>
+            <time>2:00 PM - 5:00 PM</time>
+        </course>
+        <course>
+            <courseID>CG1800</courseID>
+            <courseName>Building Site Development</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>4</lab>
+            <day>Friday</day>
+            <time>9:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU2260</courseID>
+            <courseName>Plumbing Systems</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>1</lab>
+            <day>Monday</day>
+            <time>1:00 PM - 3:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU2301</courseID>
+            <courseName>Building Codes II</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 11:00 AM</time>
+        </course>
+    </semester>
+    <semester>
+        <number>6</number>
+        <course>
+            <courseID>DR3120</courseID>
+            <courseName>Working Drawings III</courseName>
+            <credit>6</credit>
+            <lecture>4</lecture>
+            <lab>6</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>CG2000</courseID>
+            <courseName>Building Construction</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU2900</courseID>
+            <courseName>Cost Estimation</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 11:00 AM</time>
+        </course>
+        <course>
+            <courseID>BU2650</courseID>
+            <courseName>Project Management</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Thursday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU3100</courseID>
+            <courseName>Building Systems Integration</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Friday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU3110</courseID>
+            <courseName>HVAC Systems</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+    </semester>
+    <semester>
+        <number>7</number>
+        <course>
+            <courseID>EG3400</courseID>
+            <courseName>Advanced Architectural Graphics</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>3</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>DR3200</courseID>
+            <courseName>Construction Documents</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>3</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU3115</courseID>
+            <courseName>Construction Safety</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 11:00 AM</time>
+        </course>
+        <course>
+            <courseID>CG2200</courseID>
+            <courseName>Energy Efficiency</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Friday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU3120</courseID>
+            <courseName>Electrical Design</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>2:00 PM - 5:00 PM</time>
+        </course>
+    </semester>
+    <semester>
+        <number>8</number>
+        <course>
+            <courseID>EG3500</courseID>
+            <courseName>Building Information Modeling (BIM)</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU3400</courseID>
+            <courseName>Building Energy Systems</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU3500</courseID>
+            <courseName>Project Scheduling</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+            <day>Thursday</day>
+            <time>2:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU3200</courseID>
+            <courseName>Construction Law</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Friday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+    </semester>
+    <semester>
+        <number>9</number>
+        <course>
+            <courseID>DR4000</courseID>
+            <courseName>Capstone Project</courseName>
+            <credit>6</credit>
+            <lecture>4</lecture>
+            <lab>6</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU4100</courseID>
+            <courseName>Professional Practice</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 3:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU4200</courseID>
+            <courseName>Leadership in Construction</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>BU4300</courseID>
+            <courseName>Construction Management</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+            <day>Thursday</day>
+            <time>2:00 PM - 5:00 PM</time>
+        </course>
+    </semester>
+</courses>

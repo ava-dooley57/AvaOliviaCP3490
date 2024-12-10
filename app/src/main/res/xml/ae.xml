@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <semester>
+        <number>1</number>
+        <course>
+            <courseID>PH1100</courseID>
+            <courseName>Physics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>EG1170</courseID>
+            <courseName>Engineering Graphics &amp; CAD</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>4</lab>
+        </course>
+        <course>
+            <courseID>MA1700</courseID>
+            <courseName>Mathematics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>CM1400</courseID>
+            <courseName>Technical Report Writing I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>DR1405</courseID>
+            <courseName>Architectural Technology</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>CF2615</courseID>
+            <courseName>Building Materials I</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>CG1700</courseID>
+            <courseName>Environmental Design</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+    <semester>
+        <number>2</number>
+        <course>
+            <courseID>PH1101</courseID>
+            <courseName>Physics</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>EG1255</courseID>
+            <courseName>Architectural Graphics I</courseName>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>MA1101</courseID>
+            <courseName>Advanced Mathematics</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>CM1401</courseID>
+            <courseName>Technical Report Writing II</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>BU2410</courseID>
+            <courseName>Building Science I</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>CF2616</courseID>
+            <courseName>Building Materials II</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>BU2130</courseID>
+            <courseName>Service Learning</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+    <semester>
+        <number>3</number>
+        <course>
+            <courseID>EG1315</courseID>
+            <courseName>Architectural Graphics II</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>DR2150</courseID>
+            <courseName>Architectural Drawings</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>BU2250</courseID>
+            <courseName>Electurerical Systems</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>CG1310</courseID>
+            <courseName>Commercial Construction</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+    <semester>
+        <number>4</number>
+        <course>
+            <courseID>EG2255</courseID>
+            <courseName>Architectural Graphics III</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>4</lab>
+        </course>
+        <course>
+            <courseID>MA2100</courseID>
+            <courseName>Mathematics - Calculus</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>CM2800</courseID>
+            <courseName>Oral/Written Communication Skills</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>DR3110</courseID>
+            <courseName>Working Drawings I</courseName>
+            <credit>6</credit>
+            <lecture>4</lecture>
+            <lab>6</lab>
+        </course>
+        <course>
+            <courseID>BU2300</courseID>
+            <courseName>Building Codes I</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>BU2411</courseID>
+            <courseName>Building Science II</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+    <semester>
+        <number>5</number>
+        <course>
+            <courseID>EG2350</courseID>
+            <courseName>Architectural Graphics IV</courseName>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>MA1530</courseID>
+            <courseName>Statistics</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>DR3111</courseID>
+            <courseName>Working Drawings II</courseName>
+            <credit>6</credit>
+            <lecture>4</lecture>
+            <lab>6</lab>
+        </course>
+        <course>
+            <courseID>CG1800</courseID>
+            <courseName>Building Site Development</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>4</lab>
+        </course>
+        <course>
+            <courseID>BU2260</courseID>
+            <courseName>Plumbing Systems</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>BU2301</courseID>
+            <courseName>Building Codes II</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+    <semester>
+        <number>6</number>
+        <course>
+            <courseID>WC1160</courseID>
+            <courseName>Work Term</courseName>
+            <credit>5</credit>
+            <lecture>0</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>PR1110</courseID>
+            <courseName>AET Work Integrated Project</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+    <semester>
+        <number>7</number>
+        <course>
+            <courseID>BU2270</courseID>
+            <courseName>HVAC</courseName>
+            <credit>5</credit>
+            <lecture>4</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>CF3620</courseID>
+            <courseName>Building Materials III</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>CG3230</courseID>
+            <courseName>Procurement &amp; Contract Administration</courseName>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>DR4120</courseID>
+            <courseName>Working Drawings III</courseName>
+            <credit>5</credit>
+            <lecture>3</lecture>
+            <lab>7</lab>
+        </course>
+        <course>
+            <courseID>LW1610</courseID>
+            <courseName>Management &amp; Construction Law</courseName>
+            <credit>2</credit>
+            <lecture>2</lecture>
+            <lab>0</lab>
+        </course>
+        <course>
+            <courseID>PR2750</courseID>
+            <courseName>Capstone Project I (Seminar)</courseName>
+            <credit>0</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+    <semester>
+        <number>8</number>
+        <course>
+            <courseID>BU3300</courseID>
+            <courseName>Building Specifications</courseName>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>1</lab>
+        </course>
+        <course>
+            <courseID>CF3440</courseID>
+            <courseName>Structural Design</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+        </course>
+        <course>
+            <courseID>CG3320</courseID>
+            <courseName>Estimating for Buildings</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+        </course>
+        <course>
+            <courseID>DR4111</courseID>
+            <courseName>Working Drawings IV</courseName>
+            <credit>4</credit>
+            <lecture>2</lecture>
+            <lab>6</lab>
+        </course>
+        <course>
+            <courseID>PR2751</courseID>
+            <courseName>Capstone Project II</courseName>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+        </course>
+    </semester>
+</courses>

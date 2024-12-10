@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageButton
+        android:id="@+id/homeButton"
+        android:layout_width="375dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/roundedcornersprogramyear"
+        android:contentDescription="Home"
+        android:onClick="openHome"
+        android:padding="6dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/backhome"
+        android:layout_gravity="center"/>
+
+    <Spinner
+        android:id="@+id/yearSpinner"
+        android:layout_width="409dp"
+        android:layout_height="48dp"
+        android:prompt="@string/select_year"
+        android:background="@color/lightgreypink" />
+    
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="STUDENT SCHEDULE"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+    <ListView
+        android:id="@+id/courseTTListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

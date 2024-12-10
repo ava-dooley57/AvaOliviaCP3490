@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <!-- Semester 1 (Fall) -->
+    <semester>
+        <number>1</number>
+        <course>
+            <courseID>CM1400</courseID>
+            <cname>Technical Report Writing I</cname>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>ET1100</courseID>
+            <cname>Electrotechnology I</cname>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA1700</courseID>
+            <cname>Mathematics*</cname>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>PH1100</courseID>
+            <cname>Physics</cname>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>11:00 AM - 2:00 PM</time>
+        </course>
+        <course>
+            <courseID>EG1110</courseID>
+            <cname>Engineering Graphics</cname>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Friday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>CH1120</courseID>
+            <cname>Chemistry</cname>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>SD1170</courseID>
+            <cname>Technology Awareness I</cname>
+            <credit>0</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>10:00 AM - 11:00 AM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 2 (Winter) -->
+    <semester>
+        <number>2</number>
+        <course>
+            <courseID>CH1121</courseID>
+            <cname>Chemistry</cname>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>PH1101</courseID>
+            <cname>Physics</cname>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>11:00 AM - 2:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA1101</courseID>
+            <cname>Advanced Mathematics*</cname>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 2:00 PM</time>
+        </course>
+        <course>
+            <courseID>ET1101</courseID>
+            <cname>Electrotechnology</cname>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>CM1401</courseID>
+            <cname>Technical Report Writing II</cname>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Friday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>EG1430</courseID>
+            <cname>AutoCAD Essentials</cname>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>SD1171</courseID>
+            <cname>Technology Awareness II</cname>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 2:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 3 (Intersession) -->
+    <semester>
+        <number>3</number>
+        <course>
+            <courseID>SU1320</courseID>
+            <cname>Plane Surveying I</cname>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>4</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>EN1120</courseID>
+            <cname>Environmental Management</cname>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>SU1500</courseID>
+            <cname>Cartography</cname>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Friday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 4 (Fall) -->
+    <semester>
+        <number>4</number>
+        <course>
+            <courseID>FT1240</courseID>
+            <cname>Surveying Field Camp</cname>
+            <credit>1</credit>
+            <lecture>0</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 10:00 AM</time>
+        </course>
+        <course>
+            <courseID>CM2800</courseID>
+            <cname>Oral/Written Communication Skills</cname>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>SU1321</courseID>
+            <cname>Plane Surveying II</cname>
+            <credit>7</credit>
+            <lecture>4</lecture>
+            <lab>8</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 5:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA2100</courseID>
+            <cname>Mathematics - Calculus</cname>
+            <credit>5</credit>
+            <lecture>5</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>1:00 PM - 6:00 PM</time>
+        </course>
+        <course>
+            <courseID>SU1360</courseID>
+            <cname>Graphics for Geomatics Engineering Technology</cname>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Friday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>SU2500</courseID>
+            <cname>Photogrammetry</cname>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>2</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 5 (Winter) -->
+    <semester>
+        <number>5</number>
+        <course>
+            <courseID>MA2180</courseID>
+            <cname>Applied Geomatics Mathematics</cname>
+            <credit>4</credit>
+            <lecture>4</lecture>
+            <lab>1</lab>
+            <day>Wednesday</day>
+            <time>9:00 AM - 2:00 PM</time>
+        </course>
+        <course>
+            <courseID>SU1450</courseID>
+            <cname>Geographic Information Systems (GIS) I</cname>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>3</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>SU1540</courseID>
+            <cname>Hydrography I</cname>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+            <day>Tuesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>SU2330</courseID>
+            <cname>Geodesy &amp; Geodetic Positioning I</cname>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+            <day>Monday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>SU2540</courseID>
+            <cname>Cadastral Surveying I</cname>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>CP1640</courseID>
+            <cname>Visual Basic Applications for ACAD</cname>
+            <credit>2</credit>
+            <lecture>1</lecture>
+            <lab>2</lab>
+            <day>Friday</day>
+            <time>9:00 AM - 11:00 AM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 6 (Spring) -->
+    <semester>
+        <number>6</number>
+        <course>
+            <courseID>WC1300</courseID>
+            <cname>Work Term I</cname>
+            <credit>5</credit>
+            <lecture>0</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>All day</time>
+        </course>
+    </semester>
+
+    <!-- Semester 7 (Fall) -->
+    <semester>
+        <number>7</number>
+        <course>
+            <courseID>CA2900</courseID>
+            <cname>Municipal Engineering</cname>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>SU1460</courseID>
+            <cname>Geographic Information Systems (GIS) II</cname>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>3</lab>
+            <day>Wednesday</day>
+            <time>10:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>SU2570</courseID>
+            <cname>GNSS and Spatial Referencing</cname>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>SU3500</courseID>
+            <cname>Adjustments</cname>
+            <credit>4</credit>
+            <lecture>3</lecture>
+            <lab>3</lab>
+            <day>Friday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+        <course>
+            <courseID>PR2890</courseID>
+            <cname>Capstone Project I (Seminar)</cname>
+            <credit>0</credit>
+            <lecture>1</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>1:00 PM - 2:00 PM</time>
+        </course>
+        <course>
+            <courseID>MA3130</courseID>
+            <cname>Advanced Geomatics Mathematics</cname>
+            <credit>3</credit>
+            <lecture>3</lecture>
+            <lab>0</lab>
+            <day>Thursday</day>
+            <time>9:00 AM - 12:00 PM</time>
+        </course>
+        <course>
+            <courseID>GE1240</courseID>
+            <cname>Geology for Geomatics/Surveying ET</cname>
+            <credit>3</credit>
+            <lecture>2</lecture>
+            <lab>2</lab>
+            <day>Wednesday</day>
+            <time>1:00 PM - 3:00 PM</time>
+        </course>
+    </semester>
+
+    <!-- Semester 8 (Winter) -->
+    <semester>
+        <number>8</number>
+        <course>
+            <courseID>WC1301</courseID>
+            <cname>Work Term II</cname>
+            <credit>5</credit>
+            <lecture>0</lecture>
+            <lab>0</lab>
+            <day>All day</day>
+            <time>All day</time>
+        </course>
+    </semester>
+
+    <!-- Semester 9 (Spring) -->
+    <semester>
+        <number>9</number>
+        <course>
+            <courseID>FT1260</courseID>
+            <cname>Multidisciplinary Field Camp</cname>
+            <credit>1</credit>
+            <lecture>0</lecture>
+            <lab>0</lab>
+            <day>Monday</day>
+            <time>All day</time>
+        </course>
+        <course>
+            <courseID>PR3150</courseID>
+            <cname>Project Management and Financial Analysis</cname>
+            <credit>4</credit>
+            <lecture>4</lecture>
+            <lab>0</lab>
+            <day>Tuesday</day>
+            <time>9:00 AM - 1:00 PM</time>
+        </course>
+        <course>
+            <courseID>PR2891</courseID>
+            <cname>Capstone Project II (Implementation)</cname>
+            <credit>3</credit>
+            <lecture>1</lecture>
+            <lab>3</lab>
+            <day>Friday</day>
+            <time>1:00 PM - 4:00 PM</time>
+        </course>
+    </semester>
+
+</courses>
