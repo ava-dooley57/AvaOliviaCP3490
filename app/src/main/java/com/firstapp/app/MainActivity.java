@@ -3,6 +3,8 @@ package com.firstapp.app;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -16,10 +18,17 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // Retrieve selected program if available
         if (getIntent().hasExtra("selectedProgram")) {
             selectedProgram = getIntent().getStringExtra("selectedProgram");
         }
+        ImageButton myButton = findViewById(R.id.homeButton);
+
+        myButton.setOnClickListener(v -> {
+            Intent intent = new Intent(this, InfoActivity.class);
+            intent.putExtra("selectedProgram", selectedProgram);
+            startActivity(intent);
+        });
+
     }
 
     @Override
@@ -69,6 +78,13 @@ public class MainActivity extends AppCompatActivity {
 
     public void openSchedule(View view) {
         Intent intent = new Intent(this, ScheduleActivity.class);
+        intent.putExtra("selectedProgram", selectedProgram);
+        startActivity(intent);
+
+        }
+
+    public void openInfo(View view) {
+        Intent intent = new Intent(this, InfoActivity.class);
         intent.putExtra("selectedProgram", selectedProgram);
         startActivity(intent);
     }
