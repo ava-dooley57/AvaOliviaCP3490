@@ -14,7 +14,6 @@ import java.util.ArrayList;
 
 public class NewsActivity extends Activity {
 
-    private ListView newsListView;
     private ArrayList<News> newsItems;
     private String selectedProgram;
     final int xmlResourceId = R.xml.newsposts;
@@ -24,7 +23,7 @@ public class NewsActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_news);
 
-        newsListView = findViewById(R.id.newsListView);
+        ListView newsListView = findViewById(R.id.newsListView);
         newsItems = new ArrayList<>();
 
         selectedProgram = getIntent().getStringExtra("selectedProgram");
@@ -53,6 +52,7 @@ public class NewsActivity extends Activity {
                     case XmlPullParser.TEXT:
                         String text = parser.getText().trim();
                         if (!text.isEmpty()) {
+                            Log.d("XML Parsing", "Found text: " + text);
                             switch (currentTag) {
                                 case "date":
                                     date = text;
@@ -70,7 +70,7 @@ public class NewsActivity extends Activity {
                         break;
 
                     case XmlPullParser.END_TAG:
-                        if (parser.getName().equals("newsItem")) {
+                        if (parser.getName().equals("newsitem")) {
                             newsItems.add(new News(date, title, description));
                             date = "";
                             title = "";
@@ -81,10 +81,8 @@ public class NewsActivity extends Activity {
                 eventType = parser.next();
             }
 
-            Log.d("XML Parsing", "Finished parsing. Total courses: " + newsItems.size());
             parser.close();
         } catch (Exception e) {
-            Log.e("XML Parsing", "Error parsing XML: " + e.getMessage());
             e.printStackTrace();
         }
     }

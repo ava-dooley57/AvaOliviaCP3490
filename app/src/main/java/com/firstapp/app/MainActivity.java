@@ -2,7 +2,6 @@ package com.firstapp.app;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
 
@@ -20,8 +19,6 @@ public class MainActivity extends AppCompatActivity {
         // Retrieve selected program if available
         if (getIntent().hasExtra("selectedProgram")) {
             selectedProgram = getIntent().getStringExtra("selectedProgram");
-            Log.d("MainActivity", "Received again Program: " + selectedProgram);
-            Toast.makeText(this, "Program Selected: " + selectedProgram, Toast.LENGTH_SHORT).show();
         }
     }
 
@@ -43,7 +40,6 @@ public class MainActivity extends AppCompatActivity {
     public void openPublicTransit(View view) {
         Intent intent = new Intent(this, PublicTransitActivity.class);
         intent.putExtra("selectedProgram", selectedProgram);
-        Log.d("MainActivity", "Sending PT Program: " + selectedProgram);
         startActivity(intent);
     }
 
@@ -56,21 +52,18 @@ public class MainActivity extends AppCompatActivity {
     public void openContactUs(View view) {
         Intent intent = new Intent(this, ContactUsActivity.class);
         intent.putExtra("selectedProgram", selectedProgram);
-        Log.d("MainActivity", "Sending Contact Program: " + selectedProgram);
         startActivity(intent);
     }
 
     public void openNews(View view) {
         Intent intent = new Intent(this, NewsActivity.class);
         intent.putExtra("selectedProgram", selectedProgram);
-        Log.d("MainActivity", "Sending Contact Program: " + selectedProgram);
         startActivity(intent);
     }
 
     public void openCalendar(View view) {
         Intent intent = new Intent(this, CalendarActivity.class);
         intent.putExtra("selectedProgram", selectedProgram);
-        Log.d("MainActivity", "Sending calendar Program: " + selectedProgram);
         startActivity(intent);
     }
 

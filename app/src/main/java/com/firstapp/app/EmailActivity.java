@@ -47,7 +47,6 @@ public class EmailActivity extends AppCompatActivity {
     public void openHome(View view) {
         Intent intent = new Intent(this, MainActivity.class);
         intent.putExtra("selectedProgram", selectedProgram);
-        Log.d("ContactUsActivity", "Sending Email Program: " + selectedProgram);
         startActivity(intent);
     }
 }

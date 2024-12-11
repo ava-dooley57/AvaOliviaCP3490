@@ -1,7 +1,13 @@
 package com.firstapp.app;
 
+import androidx.annotation.NonNull;
+
 class CourseTT {
-    private String courseName, courseID, date, time, semester;
+    private final String courseName;
+    private final String courseID;
+    private final String date;
+    private final String time;
+    private final String semester;
     public CourseTT(String courseName, String courseID, String date, String time, String semester) {
         this.courseName = courseName;
         this.courseID = courseID;
@@ -22,11 +28,19 @@ class CourseTT {
     }
 
     public String getDate() {
-        return date;
+        if (this.date.equals("Variable")) {
+            return " ";
+        } else {
+            return this.date;
+        }
     }
 
     public String getTime() {
-        return time;
+        if (this.time.equals("Variable")) {
+            return " ";
+        } else {
+            return this.time;
+        }
     }
 
     public String getCourseName() {
@@ -34,6 +48,7 @@ class CourseTT {
     }
 
 
+    @NonNull
     public String toString() {
         return courseID + " " + courseName + " " + date + " " + time + " " + semester;
     }
