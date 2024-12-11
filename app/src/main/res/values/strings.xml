@@ -22,7 +22,7 @@
     <string name="email_us">Email us!</string>
     <string name="call_us">Call us!</string>
     <string name="devtitle">Additional Information</string>
-    <string name="devinfo">Institute of the South Pacific Self Service application was designed, developed, and tested by Ava Dooley and Olivia Lye. ISP Self Service serves a network to connect past, present, and future students together and provide helpful information on courses, program offerings, school location and transportation information, and contact information for the school administrators. All rights reserved.</string>
+    <string name="devinfo">Institute of the South Pacific Self Service application was designed, developed, and tested by Ava Dooley and Olivia Lye. ISP Self Service serves as a network to connect past, present, and future students together and provide helpful information on courses, program offerings, school location and transportation information, and contact information for the school administrators. All rights reserved.</string>
     <string-array name="years_array">
         <item>First Year</item>
         <item>Second Year</item>
